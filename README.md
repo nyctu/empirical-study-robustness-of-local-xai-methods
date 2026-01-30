@@ -23,10 +23,9 @@ These findings suggest that explanation robustness cannot be assumed a priori an
 
 ## Repository Structure
 empirical-study-robustness-of-local-xai-methods/
-│
-├── Inter-Instance Explanation Stability.ipynb
-├── Intra-Method Explanation Stability.ipynb
-└── README.md
+- Inter-Instance Explanation Stability.ipynb
+- Intra-Method Explanation Stability.ipynb
+- README.md
 
 - **Intra-Method Explanation Stability.ipynb**  
   Contains experiments assessing explanation stability when the same input instance is explained multiple times using the same XAI method.
