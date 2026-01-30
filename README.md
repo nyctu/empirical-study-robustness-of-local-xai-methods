@@ -27,11 +27,10 @@ empirical-study-robustness-of-local-xai-methods/
 - Intra-Method Explanation Stability.ipynb
 - README.md
 
-- **Intra-Method Explanation Stability.ipynb**  
-  Contains experiments assessing explanation stability when the same input instance is explained multiple times using the same XAI method.
 
-- **Inter-Instance Explanation Stability.ipynb**  
-  Contains experiments evaluating explanation similarity across nearby input instances, focusing on the influence of data geometry and model confidence.
+**Intra-Method Explanation Stability.ipynb**: Contains experiments assessing explanation stability when the same input instance is explained multiple times using the same XAI method.
+
+**Inter-Instance Explanation Stability.ipynb**: Contains experiments evaluating explanation similarity across nearby input instances, focusing on the influence of data geometry and model confidence.
 
 ## Reproducibility
 The notebooks are self-contained and include all steps required to reproduce the reported experiments. Random seeds and experimental conditions are controlled whenever applicable to ensure reproducibility.
